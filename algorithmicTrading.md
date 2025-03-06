@@ -51,10 +51,10 @@ S&P 500 is the world's most popular stock market index
 
 **Code Overview:**
 
-1. `Import librarires (numpy, pandas, requests, xlsxwriter, math)`
-2. `Importing list of stocks i.e., reading the csv file which has all the S&P 500 stocks` 
-3. `Acquire API token, here we will use IEX Cloud API token in sandbox mode which is the free version.`
-4. `After acquiring the token we will call API to get the data for example we can use API to get the current stock price for AAPL`
+1. <span style="background-color: yellow">Import librarires (numpy, pandas, requests, xlsxwriter, math)
+2. Importing list of stocks i.e., reading the csv file which has all the S&P 500 stocks 
+3. Acquire API token, here we will use IEX Cloud API token in sandbox mode which is the free version.
+4. After acquiring the token we will call API to get the data for example we can use API to get the current stock price for AAPL</span>
 
 
 # Project 2 Quantitative Momentum Screener
